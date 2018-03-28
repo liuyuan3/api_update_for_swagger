@@ -1,0 +1,12 @@
+test0,searcher.swagger.json,/static/searcher.swagger.json
+test1,smallfiles.swagger.json,/static/smallfiles.swagger.json
+test2,commonapis.swagger.json,/static/commonapis.swagger.json
+test3,ingress_commonapis.swagger.json,/static/ingress_commonapis.swagger.json
+test4,engine-image-ingress-service.swagger.json,/static/engine-image-ingress-service.swagger.json
+test5,engine-face-extract-service.swagger.json,/static/engine-face-extract-service.swagger.json
+test6,engine-image-process-service.swagger.json,/static/engine-image-process-service.swagger.json
+test7,engine-struct-extract-service.swagger.json,/static/engine-struct-extract-service.swagger.json
+test8,static-feature-db.swagger.json,/static/static-feature-db.swagger.json
+test9,engine-video-ingress-service.swagger.json,/static/engine-video-ingress-service.swagger.json
+test10,engine-video-process-service.swagger.json,/static/engine-video-process-service.swagger.json
+test11,infra-object-storage-gateway.swagger.json,/static/infra-object-storage-gateway.swagger.json
